@@ -1,0 +1,28 @@
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.dll.config
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\nunit.framework.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\nunit.framework.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.pdb
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.dll.config
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.Fixture.pdb
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\nunit.framework.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\MyEFSample.pdb
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.xml
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\bin\Debug\nunit.framework.xml
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.csprojResolveAssemblyReference.cache
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample.Fixture\obj\Debug\MyEFSample.Fixture.pdb

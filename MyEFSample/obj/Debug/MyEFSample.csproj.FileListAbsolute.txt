@@ -1,0 +1,20 @@
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\MyEFSample.dll.config
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\MyEFSample.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\MyEFSample.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\EntityFramework.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\EntityFramework.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\obj\Debug\MyEFSample.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\obj\Debug\MyEFSample.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MyEFSample\MyEFSample\obj\Debug\MyEFSample.pdb
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\MyEFSample.dll.config
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\MyEFSample.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\MyEFSample.pdb
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\EntityFramework.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\EntityFramework.xml
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\obj\Debug\MyEFSample.csprojResolveAssemblyReference.cache
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\obj\Debug\MyEFSample.dll
+C:\Asa\Documents\virtual city\tfs\MyEFSample\MyEFSample\obj\Debug\MyEFSample.pdb
