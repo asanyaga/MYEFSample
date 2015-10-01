@@ -13,5 +13,6 @@ namespace MyEFSample
         public int Population { get; set; }
 		// This is a comment
 		// This is another comment
+		// This is yet another comment
     }
 }
