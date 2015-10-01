@@ -12,5 +12,6 @@ namespace MyEFSample
         public string Name { get; set; }
         public int Population { get; set; }
 		// This is a comment
+		// This is another comment
     }
 }
